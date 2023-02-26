@@ -173,6 +173,6 @@ Module['FS_createPath']('/CootsKitchen/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 97, "filename": "/UE4CommandLine.txt"}, {"start": 97, "audio": 0, "end": 43527763, "filename": "/CootsKitchen/Content/Paks/CootsKitchen-HTML5.pak"}], "remote_package_size": 43527763, "package_uuid": "b98782bd-1622-4140-873c-4fcb80f38ed2"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 97, "filename": "/UE4CommandLine.txt"}, {"start": 97, "audio": 0, "end": 43667970, "filename": "/CootsKitchen/Content/Paks/CootsKitchen-HTML5.pak"}], "remote_package_size": 43667970, "package_uuid": "2a8ca8fe-732a-4d74-b66c-fbe05c8e8f9b"});
 
 })();
